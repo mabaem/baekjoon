@@ -32,7 +32,7 @@ public class Q11651 {
 				}
 			}
 		
-		});
+		});  
 		
 		// 출력
 		StringBuilder sb = new StringBuilder();
