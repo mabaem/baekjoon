@@ -24,11 +24,11 @@ public class Q11651 {
 			@Override
 			public int compare(Integer[] o1, Integer[] o2) {
 				// TODO Auto-generated method stub
-				if (o1[0].equals(o2[0])) {
-					return o1[1] - o2[1];
+				if (o1[1].equals(o2[1])) {
+					return o1[0] - o2[0];
 				}
 				else {
-					return o1[0] - o2[0];
+					return o1[1] - o2[1];
 				}
 			}
 		
