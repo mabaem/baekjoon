@@ -13,7 +13,7 @@ public class Q25305 {
 		int k = sc.nextInt();	// 상을 받는 사람 수
 		
 		int[] array = new int[N];
-		
+		 
 		for(int i = 0; i < N; i++) {
 			array[i] = sc.nextInt();
 		}
