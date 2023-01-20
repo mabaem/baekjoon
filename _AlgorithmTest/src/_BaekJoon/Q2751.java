@@ -10,7 +10,7 @@ public class Q2751 {
 	public static void main(String args[]) throws IOException {
 		// 오름차순 정렬 - Collections.sort
 		
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); 
 		StringBuilder sb = new StringBuilder();
 		
 		int N = Integer.parseInt(br.readLine());
