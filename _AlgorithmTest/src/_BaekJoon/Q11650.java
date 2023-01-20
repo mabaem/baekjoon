@@ -5,7 +5,7 @@ import java.util.Comparator;
 import java.util.Scanner;
 
 public class Q11650 {
-	public static void main(String args[]) {
+	public static void main(String args[]) { 
 		// 좌표 정렬하기
 		Scanner sc = new Scanner(System.in);
 		
