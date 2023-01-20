@@ -19,7 +19,7 @@ public class Q11651 {
 		}
 		
 		// 정렬
-		Arrays.sort(array, new Comparator<Integer[]>() {
+		Arrays.sort(array, new Comparator<Integer[]>() { 
 
 			@Override
 			public int compare(Integer[] o1, Integer[] o2) {
