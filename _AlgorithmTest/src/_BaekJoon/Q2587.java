@@ -6,7 +6,7 @@ public class Q2587 {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		
-		int[] array = new int[5];
+		int[] array = new int[5]; 
 		int temp;
 		
 		int sum = 0;
