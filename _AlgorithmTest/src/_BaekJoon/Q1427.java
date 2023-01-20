@@ -11,7 +11,7 @@ public class Q1427 {
 		
 		char[] charArray = sc.nextLine().toCharArray();
 		
-		Arrays.sort(charArray);
+		Arrays.sort(charArray); 
 		
 		for(int i = charArray.length - 1; i >= 0; i--) {
 			System.out.print(charArray[i]);
