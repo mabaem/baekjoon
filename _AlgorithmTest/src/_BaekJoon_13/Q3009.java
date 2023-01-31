@@ -22,7 +22,7 @@ public class Q3009 {
 			resultX = x[0];
 		} else {
 			resultX = x[1];
-		}
+		} 
 		
 		// y좌표 검증
 		if(y[0] == y[1]) {
